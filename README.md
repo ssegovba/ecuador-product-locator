@@ -4,7 +4,7 @@ An interactive Streamlit dashboard that helps identify **where in Ecuador a give
 plausibly be produced**, based on the industries that make it and the related industrial
 capabilities already present across the country's provinces.
 
-> **Live app:** _add your Streamlit URL here after deploying_ (e.g. `https://<name>.streamlit.app`)
+> **Live app:** https://ecu-hs-locator.streamlit.app/
 
 It walks through four steps: an HS product → the industries (ISIC/CIIU classes) that produce it →
 where those industries are active across provinces (2024 business registry) → a full province
