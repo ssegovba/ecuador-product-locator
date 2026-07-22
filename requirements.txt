@@ -1,0 +1,8 @@
+# Runtime dependencies for the product_locator Streamlit app (apps/product_locator).
+# Used by Streamlit Community Cloud to build the deploy environment (Python 3.13).
+# The app reads precomputed CSV/Parquet/GeoJSON bundles, so it needs no geopandas/GDAL.
+streamlit==1.55.0
+pandas==2.3.3
+numpy==2.4.2
+plotly==6.6.0
+pyarrow==23.0.1

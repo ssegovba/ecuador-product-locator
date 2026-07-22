@@ -1,0 +1,535 @@
+﻿ciiu_code,ciiu_name,ciiu_level,sector,ciiu_name_en
+A,Agricultura,section,Primario,"Agriculture, forestry and fishing"
+B,Minas y canteras,section,Primario,Mining and quarrying
+C,Manufactura,section,Secundario,Manufacturing
+D,Electricidad,section,Secundario,"Electricity, gas, steam and air conditioning supply"
+E,Agua,section,Secundario,"Water supply; sewerage, waste management and remediation activities"
+F,Construcción,section,Secundario,Construction
+G,Comercio,section,Terciario,Wholesale and retail trade; repair of motor vehicles and motorcycles
+H,Transporte,section,Terciario,Transportation and storage
+I,Alojamiento,section,Terciario,Accommodation and food service activities
+J,Información y comunicaciones,section,Terciario,Information and communication
+K,Financiero,section,Terciario,Financial and insurance activities
+L,Inmobiliario,section,Terciario,Real estate activities
+M,Act. Profesionales,section,Terciario,"Professional, scientific and technical activities"
+N,Servicios admin.,section,Terciario,Administrative and support service activities
+M-N,Act. Profesionales y servicios admin.,section,Terciario,"Professional, scientific, technical and administrative services"
+O,Admin. Publica,section,Terciario,Public administration and defence; compulsory social security
+P,Educación,section,Terciario,Education
+Q,Salud,section,Terciario,Human health and social work activities
+R-S-U,Otros servicios,section,Terciario,Other services
+T,Servicios hogares,section,Terciario,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use
+R,Arte,section,Terciario,"Arts, entertainment and recreation"
+S,Otros servicios,section,Terciario,Other service activities
+U,Extraterritoriales,section,Terciario,Activities of extraterritorial organizations and bodies
+A01,"Agricultura, Ganadería, Caza Y Actividades De Servicios Conexas.",division,,"Crop and animal production, hunting and related service activities"
+A02,Silvicultura Y Extracción De Madera.,division,,Forestry and logging
+A03,Pesca Y Acuicultura.,division,,Fishing and aquaculture
+B05,Extracción De Carbón De Piedra Y Lignito.,division,,Mining of coal and lignite
+B06,Extracción De Petróleo Crudo Y Gas Natural.,division,,Extraction of crude petroleum and natural gas
+B07,Extracción De Minerales Metalíferos.,division,,Mining of metal ores
+B08,Explotación De Otras Minas Y Canteras.,division,,Other mining and quarrying
+B09,Actividades De Servicios De Apoyo Para La Explotación De Minas Y Canteras.,division,,Mining support service activities
+C10,Elaboración De Productos Alimenticios.,division,,Manufacture of food products
+C11,Elaboración De Bebidas.,division,,Manufacture of beverages
+C12,Elaboración De Productos De Tabaco.,division,,Manufacture of tobacco products
+C13,Fabricación De Productos Textiles.,division,,Manufacture of textiles
+C14,Fabricación De Prendas De Vestir.,division,,Manufacture of wearing apparel
+C15,Fabricación De Cueros Y Productos Conexos.,division,,Manufacture of leather and related products
+C16,"Producción De Madera Y Fabricación De Productos De Madera Y Corcho, Excepto Muebles; Fabricación De Artículos De Paja Y De Materiales Trenzables.",division,,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials"
+C17,Fabricación De Papel Y De Productos De Papel.,division,,Manufacture of paper and paper products
+C18,Impresión Y Reproducción De Grabaciones.,division,,Printing and reproduction of recorded media
+C19,Fabricación De Coque Y De Productos De La Refinación Del Petróleo.,division,,Manufacture of coke and refined petroleum products
+C20,Fabricación De Substancias Y Productos Químicos.,division,,Manufacture of chemicals and chemical products
+C21,"Fabricación De Productos Farmacéuticos, Sustancias Químicas Medicinales Y Productos Botánicos De Uso Farmacéutico.",division,,Manufacture of basic pharmaceutical products and pharmaceutical preparations
+C22,Fabricación De Productos De Caucho Y Plástico.,division,,Manufacture of rubber and plastics products
+C23,Fabricación De Otros Productos Minerales No Metálicos.,division,,Manufacture of other non-metallic mineral products
+C24,Fabricación De Metales Comunes.,division,,Manufacture of basic metals
+C25,"Fabricación De Productos Elaborados De Metal, Excepto Maquinaria Y Equipo.",division,,"Manufacture of fabricated metal products, except machinery and equipment"
+C26,"Fabricación De Productos De Informática, Electrónica Y Óptica.",division,,"Manufacture of computer, electronic and optical products"
+C27,Fabricación De Equipo Eléctrico.,division,,Manufacture of electrical equipment
+C28,Fabricación De Maquinaria Y Equipo N.C.P.,division,,Manufacture of machinery and equipment n.e.c.
+C29,"Fabricación De Vehículos Automotores, Remolques Y Semirremolques.",division,,"Manufacture of motor vehicles, trailers and semi-trailers"
+C30,Fabricación De Otros Tipos De Equipos De Transporte.,division,,Manufacture of other transport equipment
+C31,Fabricación De Muebles.,division,,Manufacture of furniture
+C32,Otras Industrias Manufactureras.,division,,Other manufacturing
+C33,Reparación E Instalación De Maquinaria Y Equipo.,division,,Repair and installation of machinery and equipment
+D35,"Suministro De Electricidad, Gas, Vapor Y Aire Acondicionado.",division,,"Electricity, gas, steam and air conditioning supply"
+E36,"Captación, Tratamiento Y Distribución De Agua.",division,,"Water collection, treatment and supply"
+E37,Evacuación De Aguas Residuales.,division,,Sewerage
+E38,"Recolección, Tratamiento Y Eliminación De Desechos, Recuperación De Materiales.",division,,"Waste collection, treatment and disposal activities; materials recovery"
+E39,Actividades De Descontaminación Y Otros Servicios De  Gestión De Desechos.,division,,Remediation activities and other waste management services
+F41,Construcción De Edificios.,division,,Construction of buildings
+F42,Obras De Ingeniería Civil.,division,,Civil engineering
+F43,Actividades Especializadas De La Construcción.,division,,Specialized construction activities
+G45,Comercio Y Reparación De Vehículos Automotores Y Motocicletas.,division,,Wholesale and retail trade and repair of motor vehicles and motorcycles
+G46,"Comercio Al Por Mayor, Excepto El De Vehículos Automotores Y Motocicletas.",division,,"Wholesale trade, except of motor vehicles and motorcycles"
+G47,"Comercio Al Por Menor, Excepto El De Vehículos Automotores Y Motocicletas.",division,,"Retail trade, except of motor vehicles and motorcycles"
+H49,Transporte Por Vía Terrestre Y Por Tuberías.,division,,Land transport and transport via pipelines
+H50,Transporte Por Vía Acuática.,division,,Water transport
+H51,Transporte Por Vía Aérea.,division,,Air transport
+H52,Almacenamiento Y Actividades De Apoyo Al Transporte.,division,,Warehousing and support activities for transportation
+H53,Actividades Postales Y De Mensajería.,division,,Postal and courier activities
+I55,Actividades De Alojamiento.,division,,Accommodation
+I56,Servicio De Alimento Y Bebida.,division,,Food and beverage service activities
+J58,Actividades De Publicación.,division,,Publishing activities
+J59,"Actividades De Producción De Películas Cinematográficas, Vídeos Y Programas De Televisión, Grabación De Sonido Y Edición De Música.",division,,"Motion picture, video and television programme production, sound recording and music publishing activities"
+J60,Actividades De Programación Y Transmisión.,division,,Programming and broadcasting activities
+J61,Telecomunicaciones.,division,,Telecommunications
+J62,"Programación Informática, Consultoría De Informática Y Actividades Conexas.",division,,"Computer programming, consultancy and related activities"
+J63,Actividades De Servicios De Información.,division,,Information service activities
+K64,"Actividades De Servicios Financieros, Excepto Las De Seguros Y Fondos De Pensiones.",division,,"Financial service activities, except insurance and pension funding"
+K65,"Seguros, Reaseguros Y Fondos De Pensiones, Excepto Los Planes De Seguridad Social De Afiliación Obligatoria.",division,,"Insurance, reinsurance and pension funding, except compulsory social security"
+K66,Actividades Auxiliares De Las Actividades De Servicios Financieros.,division,,Activities auxiliary to financial service and insurance activities
+L68,Actividades Inmobiliarias.,division,,Real estate activities
+M69,Actividades Jurídicas Y De Contabilidad.,division,,Legal and accounting activities
+M70,Actividades De Oficinas Principales; Actividades De Consultoría De Gestión.,division,,Activities of head offices; management consultancy activities
+M71,Actividades De Arquitectura E Ingeniería; Ensayos Y Análisis Técnicos.,division,,Architectural and engineering activities; technical testing and analysis
+M72,Investigación Científica Y Desarrollo.,division,,Scientific research and development
+M73,Publicidad Y Estudios De Mercado.,division,,Advertising and market research
+M74,"Otras Actividades Profesionales, Científicas Y Técnicas.",division,,"Other professional, scientific and technical activities"
+M75,Actividades Veterinarias.,division,,Veterinary activities
+N77,Actividades De Alquiler Y Arrendamiento.,division,,Rental and leasing activities
+N78,Actividades De Empleo.,division,,Employment activities
+N79,"Actividades De Agencias De Viajes, Operadores Turísticos, Servicios De Reservas Y Actividades Conexas.",division,,"Travel agency, tour operator, reservation service and related activities"
+N80,Actividades De Seguridad E Investigación.,division,,Security and investigation activities
+N81,Actividades De Servicios A Edificios Y Paisajismo.,division,,Services to buildings and landscape activities
+N82,Actividades Administrativas Y De Apoyo De Oficina Y Otras Actividades De Apoyo A Las Empresas.,division,,"Office administrative, office support and other business support activities"
+O84,Administración Pública Y Defensa; Planes De Seguridad Social De Afiliación Obligatoria.,division,,Public administration and defence; compulsory social security
+P85,Enseñanza.,division,,Education
+Q86,Actividades De Atención De La Salud Humana.,division,,Human health activities
+Q87,Actividades De Atención En Instituciones.,division,,Residential care activities
+Q88,Actividades De Asistencia Social Sin Alojamiento.,division,,Social work activities without accommodation
+R90,"Actividades Creativas, Artísticas Y De Entretenimiento.",division,,"Creative, arts and entertainment activities"
+R91,"Actividades De Bibliotecas, Archivos, Museos Y Otras Actividades Culturales.",division,,"Libraries, archives, museums and other cultural activities"
+R92,Actividades De Juegos De Azar Y Apuestas.,division,,Gambling and betting activities
+R93,"Actividades Deportivas, De Esparcimiento Y Recreativas.",division,,Sports activities and amusement and recreation activities
+S94,Actividades De Asociaciones.,division,,Activities of membership organizations
+S95,Reparación De Computadores Y De Efectos Personales Y Enseres Domésticos.,division,,Repair of computers and personal and household goods
+S96,Otras Actividades De Servicios Personales.,division,,Other personal service activities
+T97,Actividades De Los Hogares Como Empleadores De Personal Doméstico.,division,,Activities of households as employers of domestic personnel
+T98,Actividades No Diferenciadas De Los Hogares Como Productores De Bienes Y Servicios Para Uso Propio.,division,,Undifferentiated goods- and services-producing activities of private households for own use
+U99,Actividades De Organizaciones Y Órganos Extraterritoriales.,division,,Activities of extraterritorial organizations and bodies
+A0111,"Cultivo De Cereales (Excepto Arroz), Legumbres Y Semillas Oleaginosas.",class,,"Growing of cereals (except rice), leguminous crops and oil seeds"
+A0112,Cultivo De Arroz.,class,,Growing of rice
+A0113,"Cultivo De Hortalizas Y Melones, Raíces Y Tubérculos.",class,,"Growing of vegetables and melons, roots and tubers"
+A0114,Cultivo De Caña De Azúcar.,class,,Growing of sugar cane
+A0115,Cultivo De Tabaco.,class,,Growing of tobacco
+A0116,Cultivo De Plantas De Fibras.,class,,Growing of fibre crops
+A0119,Cultivo De Otras Plantas No Perennes.,class,,Growing of other non-perennial crops
+A0121,Cultivo De Uvas.,class,,Growing of grapes
+A0122,Cultivo De Frutas Tropicales Y Subtropicales.,class,,Growing of tropical and subtropical fruits
+A0123,Cultivo De Cítricos.,class,,Growing of citrus fruits
+A0124,Cultivo De Frutas Con Hueso Y Con Pepa.,class,,Growing of pome fruits and stone fruits
+A0125,Cultivo De Otros Frutos Y Nueces De Árboles Y Arbustos.,class,,Growing of other tree and bush fruits and nuts
+A0126,Cultivo De Frutos Oleaginosos.,class,,Growing of oleaginous fruits
+A0127,Cultivo De Plantas Con Las Que Se Preparan Bebidas.,class,,Growing of beverage crops
+A0128,"Cultivo De Especias Y De Plantas Aromáticas, Medicinales Y Farmacéuticas.",class,,"Growing of spices, aromatic, drug and pharmaceutical crops"
+A0129,Cultivo De Otras Plantas Perennes.,class,,Growing of other perennial crops
+A0130,Propagación De Plantas.,class,,Plant propagation
+A0141,Cría De Ganado Bovino Y Búfalos.,class,,Raising of cattle and buffaloes
+A0142,Cría De Caballos Y Otros Equinos.,class,,Raising of horses and other equines
+A0143,Cría De Camellos Y Otros Camélidos.,class,,Raising of camels and camelids
+A0144,Cría De Ovejas Y Cabras.,class,,Raising of sheep and goats
+A0145,Cría De Cerdos.,class,,Raising of swine/pigs
+A0146,Cría De Aves De Corral.,class,,Raising of poultry
+A0149,Cría De Otros Animales.,class,,Raising of other animals
+A0150,Cultivo De Productos Agrícolas En Combinación Con La Cría De Animales (Explotación Mixta).,class,,Mixed farming
+A0161,Actividades De Apoyo A La Agricultura.,class,,Support activities for crop production
+A0162,Actividades De Apoyo A La Ganadería.,class,,Support activities for animal production
+A0163,Actividades Poscosecha.,class,,Post-harvest crop activities
+A0164,Tratamiento De Semillas Para Propagación.,class,,Seed processing for propagation
+A0170,"Caza Ordinaria, Mediante Trampas Y Actividades De Servicios Conexas.",class,,"Hunting, trapping and related service activities"
+A0210,Silvicultura Y Otras Actividades Forestales.,class,,Silviculture and other forestry activities
+A0220,Extracción De Madera.,class,,Logging
+A0230,Recolección De Productos Forestales Distintos De La Madera.,class,,Gathering of non-wood forest products
+A0240,Servicios De Apoyo A La Silvicultura.,class,,Support services to forestry
+A0311,Pesca Marina.,class,,Marine fishing
+A0312,Pesca De Agua Dulce.,class,,Freshwater fishing
+A0321,Acuicultura Marina.,class,,Marine aquaculture
+A0322,Acuicultura De Agua Dulce.,class,,Freshwater aquaculture
+B0510,Extracción De Carbón De Piedra.,class,,Mining of hard coal
+B0520,Extracción De Lignito.,class,,Mining of lignite
+B0610,Extracción De Petróleo Crudo.,class,,Extraction of crude petroleum
+B0620,Extracción De Gas Natural.,class,,Extraction of natural gas
+B0710,Extracción De Minerales De Hierro.,class,,Mining of iron ores
+B0721,Extracción De Minerales De Uranio Y Torio.,class,,Mining of uranium and thorium ores
+B0729,Extracción De Otros Minerales Metalíferos No Ferrosos.,class,,Mining of other non-ferrous metal ores
+B0810,"Extracción De Piedra, Arena Y Arcilla.",class,,"Quarrying of stone, sand and clay"
+B0891,Extracción De Minerales Para La Fabricación De Abonos Y Productos Químicos.,class,,Mining of chemical and fertilizer minerals
+B0892,Extracción De Turba.,class,,Extraction of peat
+B0893,Extracción De Sal.,class,,Extraction of salt
+B0899,Explotación De Otras Minas Y Canteras N.C.P.,class,,Other mining and quarrying n.e.c.
+B0910,Actividades De Apoyo Para La Extracción De Petróleo Y Gas Natural.,class,,Support activities for petroleum and natural gas extraction
+B0990,Actividades De Apoyo Para La Explotación De Otras Minas Y Canteras.,class,,Support activities for other mining and quarrying
+C1010,Elaboración Y Conservación De Carne.,class,,Processing and preserving of meat
+C1020,"Elaboración Y Conservación De Pescados, Crustáceos Y Moluscos.",class,,"Processing and preserving of fish, crustaceans and molluscs"
+C1030,"Elaboración Y Conservación De Frutas, Legumbres Y Hortalizas.",class,,Processing and preserving of fruit and vegetables
+C1040,Elaboración De Aceites Y Grasas De Origen Vegetal Y Animal.,class,,Manufacture of vegetable and animal oils and fats
+C1050,Elaboración De Productos Lácteos.,class,,Manufacture of dairy products
+C1061,Elaboración De Productos De Molinería.,class,,Manufacture of grain mill products
+C1062,Elaboración De Almidones Y Productos Derivados Del Almidón.,class,,Manufacture of starches and starch products
+C1071,Elaboración De Productos De Panadería.,class,,Manufacture of bakery products
+C1072,Elaboración De Azúcar.,class,,Manufacture of sugar
+C1073,"Elaboración De Cacao, Chocolate Y Productos De Confitería.",class,,"Manufacture of cocoa, chocolate and sugar confectionery"
+C1074,"Elaboración De Macarrones, Fideos, Alcuzcuz Y Productos Farináceos Similares.",class,,"Manufacture of macaroni, noodles, couscous and similar farinaceous products"
+C1075,Elaboración De Comidas Y Platos Preparados.,class,,Manufacture of prepared meals and dishes
+C1079,Elaboración De Otros Productos Alimenticios N.C.P.,class,,Manufacture of other food products n.e.c.
+C1080,Elaboración De Alimentos Preparados Para Animales.,class,,Manufacture of prepared animal feeds
+C1101,"Destilación, Rectificación Y Mezcla De Bebidas Alcohólicas.",class,,"Distilling, rectifying and blending of spirits"
+C1102,Elaboración De Vinos.,class,,Manufacture of wines
+C1103,Elaboración De Bebidas Malteadas Y De Malta.,class,,Manufacture of malt liquors and malt
+C1104,Elaboración De Bebidas No Alcohólicas; Producción De Aguas Minerales Y Otras Aguas Embotelladas.,class,,Manufacture of soft drinks; production of mineral waters and other bottled waters
+C1200,Elaboración De Productos De Tabaco.,class,,Manufacture of tobacco products
+C1311,Preparación E Hilatura De Fibras Textiles.,class,,Preparation and spinning of textile fibres
+C1312,Tejedura De Productos Textiles.,class,,Weaving of textiles
+C1313,Servicio De Acabado De Productos Textiles.,class,,Finishing of textiles
+C1391,Fabricación De Tejidos De Punto Y Ganchillo.,class,,Manufacture of knitted and crocheted fabrics
+C1392,"Fabricación De Artículos Confeccionados De Materiales Textiles, Excepto Prendas De Vestir.",class,,"Manufacture of made-up textile articles, except apparel"
+C1393,Fabricación De Tapices Y Alfombras.,class,,Manufacture of carpets and rugs
+C1394,"Fabricación De Cuerdas, Cordeles, Bramantes Y Redes.",class,,"Manufacture of cordage, rope, twine and netting"
+C1399,Fabricación De Otros Productos Textiles N.C.P.,class,,Manufacture of other textiles n.e.c.
+C1410,"Fabricación De Prendas De Vestir, Excepto Prendas De Piel.",class,,"Manufacture of wearing apparel, except fur apparel"
+C1420,Fabricación De Artículos De Piel.,class,,Manufacture of articles of fur
+C1430,Fabricación De Artículos De Punto Y Ganchillo.,class,,Manufacture of knitted and crocheted apparel
+C1511,Curtido Y Adobo De Cueros; Adobo Y Teñido De Pieles.,class,,Tanning and dressing of leather; dressing and dyeing of fur
+C1512,"Fabricación De Maletas, Bolsos De Mano Y Artículos Similares, Artículos De Talabartería Y Guarnicionería.",class,,"Manufacture of luggage, handbags and the like, saddlery and harness"
+C1520,Fabricación De Calzado.,class,,Manufacture of footwear
+C1610,Aserrado Y Acepilladura De Madera.,class,,Sawmilling and planing of wood
+C1621,Fabricación De Hojas De Madera Para Enchapado Y Tableros A Base De Madera.,class,,Manufacture of veneer sheets and wood-based panels
+C1622,Fabricación De Partes Y Piezas De Carpintería Para Edificios Y Construcciones.,class,,Manufacture of builders' carpentry and joinery
+C1623,Fabricación De Recipientes De Madera.,class,,Manufacture of wooden containers
+C1629,"Fabricación De Otros Productos De Madera; Fabricación De Artículos De Corcho, Paja Y Materiales Trenzables.",class,,"Manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials"
+C1701,"Fabricación De Pasta De Madera, Papel Y Cartón.",class,,"Manufacture of pulp, paper and paperboard"
+C1702,Fabricación De Papel Y Cartón Ondulado Y De Envases De Papel Y Cartón.,class,,Manufacture of corrugated paper and paperboard and of containers of paper and paperboard
+C1709,Fabricación De Otros Artículos Del Papel Y Cartón.,class,,Manufacture of other articles of paper and paperboard
+C1811,Actividades De Impresión.,class,,Printing
+C1812,Actividades De Servicios Relacionados Con La Impresión.,class,,Service activities related to printing
+C1820,Reproducción De Grabaciones.,class,,Reproduction of recorded media
+C1910,Fabricación De Productos De Horno De Coque.,class,,Manufacture of coke oven products
+C1920,Fabricación De Productos De La Refinación Del Petróleo.,class,,Manufacture of refined petroleum products
+C2011,Fabricación De Substancias Químicas Básicas.,class,,Manufacture of basic chemicals
+C2012,Fabricación De Abonos Y Compuestos De Nitrógeno.,class,,Manufacture of fertilizers and nitrogen compounds
+C2013,Fabricación De Plásticos Y Cauchos Sintéticos En Formas Primarias.,class,,Manufacture of plastics and synthetic rubber in primary forms
+C2021,Fabricación De Plaguicidas Y Otros Productos Químicos De Uso Agropecuario.,class,,Manufacture of pesticides and other agrochemical products
+C2022,"Fabricación De Pinturas, Barnices Y Productos De Revestimiento Similares, Tintas De Imprenta Y Masillas.",class,,"Manufacture of paints, varnishes and similar coatings, printing ink and mastics"
+C2023,"Fabricación De Jabones Y Detergentes, Preparados Para Limpiar Y Pulir, Perfumes Y Preparados De Tocador.",class,,"Manufacture of soap and detergents, cleaning and polishing preparations, perfumes and toilet preparations"
+C2029,Fabricación De Otros Productos Químicos N.C.P.,class,,Manufacture of other chemical products n.e.c.
+C2030,Fabricación De Fibras Artificiales.,class,,Manufacture of man-made fibres
+C2100,"Fabricación De Productos Farmacéuticos, Sustancias Químicas Medicinales Y Productos Botánicos De Uso Farmacéutico.",class,,"Manufacture of pharmaceuticals, medicinal chemical and botanical products"
+C2211,Fabricación De Cubiertas Y Cámaras De Caucho; Recauchutado Y Renovación De Cubiertas De Caucho.,class,,Manufacture of rubber tyres and tubes; retreading and rebuilding of rubber tyres
+C2219,Fabricación De Otros Productos De Caucho.,class,,Manufacture of other rubber products
+C2220,Fabricación De Productos De Plástico.,class,,Manufacture of plastics products
+C2310,Fabricación De Vidrio Y Productos De Vidrio.,class,,Manufacture of glass and glass products
+C2391,Fabricación De Productos Refractarios.,class,,Manufacture of refractory products
+C2392,Fabricación De Materiales De Construcción De Arcilla.,class,,Manufacture of clay building materials
+C2393,Fabricación De Otros Productos De Porcelana Y De Cerámica.,class,,Manufacture of other porcelain and ceramic products
+C2394,"Fabricación De Cemento, Cal Y Yeso.",class,,"Manufacture of cement, lime and plaster"
+C2395,"Fabricación De Artículos De Hormigón, De Cemento Y Yeso.",class,,"Manufacture of articles of concrete, cement and plaster"
+C2396,"Corte, Tallado Y Acabado De La Piedra.",class,,"Cutting, shaping and finishing of stone"
+C2399,Fabricación De Otros Productos Minerales No Metálicos N.C.P.,class,,Manufacture of other non-metallic mineral products n.e.c.
+C2410,Industrias Básicas De Hierro Y Acero.,class,,Manufacture of basic iron and steel
+C2420,Fabricación De Productos Primarios De Metales Preciosos Y Metales No Ferrosos.,class,,Manufacture of basic precious and other non-ferrous metals
+C2431,Fundición De Hierro Y Acero.,class,,Casting of iron and steel
+C2432,Fundición De Metales No Ferrosos.,class,,Casting of non-ferrous metals
+C2511,Fabricación De Productos Metálicos Para Uso Estructural.,class,,Manufacture of structural metal products
+C2512,"Fabricación De Tanques, Depósitos Y Recipientes De Metal.",class,,"Manufacture of tanks, reservoirs and containers of metal"
+C2513,"Fabricación De Generadores De Vapor, Excepto Calderas De Agua Caliente Para Calefacción Central.",class,,"Manufacture of steam generators, except central heating hot water boilers"
+C2520,Fabricación De Armas Y Municiones.,class,,Manufacture of weapons and ammunition
+C2591,"Forja, Prensado, Estampado Y Laminado De Metales; Pulvimetalurgia.",class,,"Forging, pressing, stamping and roll-forming of metal; powder metallurgy"
+C2592,Tratamiento Y Revestimiento De Metales; Maquinado.,class,,Treatment and coating of metals; machining
+C2593,"Fabricación De Artículos De Cuchillería, Herramientas De Mano Y Artículos De Ferretería.",class,,"Manufacture of cutlery, hand tools and general hardware"
+C2599,Fabricación De Otros Productos Elaborados De Metal N.C.P.,class,,Manufacture of other fabricated metal products n.e.c.
+C2610,Fabricación De Componentes Y Tableros Electrónicos.,class,,Manufacture of electronic components and boards
+C2620,Fabricación De Computadoras Y Equipo Periférico.,class,,Manufacture of computers and peripheral equipment
+C2630,Fabricación De Equipo De Comunicaciones.,class,,Manufacture of communication equipment
+C2640,Fabricación De Aparatos Electrónicos De Consumo.,class,,Manufacture of consumer electronics
+C2651,"Fabricación De Equipos De Medición, Prueba, Navegación, Control Y De Relojes.",class,,"Manufacture of measuring, testing, navigating and control equipment"
+C2652,Fabricación De Relojes.,class,,Manufacture of watches and clocks
+C2660,"Fabricación De Equipo De Irradiación, Y Equipo Electrónico De Uso Medico Y Terapéutico.",class,,"Manufacture of irradiation, electromedical and electrotherapeutic equipment"
+C2670,Fabricación De Instrumentos Ópticos Y Equipo Fotográficos.,class,,Manufacture of optical instruments and photographic equipment
+C2680,Fabricación De Soportes Magnéticos Y Ópticos.,class,,Manufacture of magnetic and optical media
+C2710,"Fabricación De Motores, Generadores, Transformadores Eléctricos Y Aparatos De Distribución Y Control De La Energía Eléctrica.",class,,"Manufacture of electric motors, generators, transformers and electricity distribution and control apparatus"
+C2720,"Fabricación De Pilas, Baterías Y Acumuladores.",class,,Manufacture of batteries and accumulators
+C2731,Fabricación De Cables De Fibra Óptica.,class,,Manufacture of fibre optic cables
+C2732,Fabricación De Otros Hilos Y Cables Eléctricos.,class,,Manufacture of other electronic and electric wires and cables
+C2733,Fabricación De Dispositivos De Cableado.,class,,Manufacture of wiring devices
+C2740,Fabricación De Equipo Eléctrico De Iluminación.,class,,Manufacture of electric lighting equipment
+C2750,Fabricación De Aparatos De Uso Doméstico.,class,,Manufacture of domestic appliances
+C2790,Fabricación De Otros Tipos De Equipo Eléctrico.,class,,Manufacture of other electrical equipment
+C2811,"Fabricación De Motores Y Turbinas, Excepto Motores Para Aeronaves, Vehículos Automotores Y Motocicletas.",class,,"Manufacture of engines and turbines, except aircraft, vehicle and cycle engines"
+C2812,Fabricación De Equipo De Propulsión De Fluidos.,class,,Manufacture of fluid power equipment
+C2813,"Fabricación De Otras Bombas, Compresores, Grifos Y Válvulas.",class,,"Manufacture of other pumps, compressors, taps and valves"
+C2814,"Fabricación De Cojinetes, Engranajes, Trenes De Engranajes Y Piezas De Transmisión.",class,,"Manufacture of bearings, gears, gearing and driving elements"
+C2815,Fabricación De Hornos Y Quemadores.,class,,"Manufacture of ovens, furnaces and furnace burners"
+C2816,Fabricación De Equipo De Elevación Y Manipulación.,class,,Manufacture of lifting and handling equipment
+C2817,Fabricación De Maquinaria Y Equipo De Oficina (Excepto Computadoras Y Equipo Periférico).,class,,Manufacture of office machinery and equipment (except computers and peripheral equipment)
+C2818,Fabricación De Herramientas De Mano Motorizadas.,class,,Manufacture of power-driven hand tools
+C2819,Fabricación De Otros Tipos De Maquinaria De Uso General.,class,,Manufacture of other general-purpose machinery
+C2821,Fabricación De Maquinaria Agropecuaria Y Forestal.,class,,Manufacture of agricultural and forestry machinery
+C2822,Fabricación De Maquinaria Para La Conformación De Metales Y De Máquinas Herramienta.,class,,Manufacture of metal-forming machinery and machine tools
+C2823,Fabricación De Maquinaria Metalúrgica.,class,,Manufacture of machinery for metallurgy
+C2824,Fabricación De Maquinaria Para La Explotación De Minas Y Canteras Y Para Obras De Construcción.,class,,"Manufacture of machinery for mining, quarrying and construction"
+C2825,"Fabricación De Maquinaria Para La Elaboración De Alimentos, Bebidas Y Tabaco.",class,,"Manufacture of machinery for food, beverage and tobacco processing"
+C2826,"Fabricación De Maquinaria Para La Elaboración De Productos Textiles, Prendas De Vestir Y Cueros.",class,,"Manufacture of machinery for textile, apparel and leather production"
+C2829,Fabricación De Otros Tipos De Maquinaria De Uso Especial.,class,,Manufacture of other special-purpose machinery
+C2910,Fabricación De Vehículos Automotores.,class,,Manufacture of motor vehicles
+C2920,Fabricación De Carrocerías Para Vehículos Automotores; Fabricación De Remolques Y Semirremolques.,class,,Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers
+C2930,"Fabricación De Partes, Piezas Y Accesorios Para Vehículos Automotores.",class,,Manufacture of parts and accessories for motor vehicles
+C3011,Construcción De Buques Y Estructuras Flotantes.,class,,Building of ships and floating structures
+C3012,Construcción De Embarcaciones De Recreo Y Deporte.,class,,Building of pleasure and sporting boats
+C3020,Fabricación De Locomotoras Y Material Rodante.,class,,Manufacture of railway locomotives and rolling stock
+C3030,Fabricación De Aeronaves Y Naves Especiales Y Maquinaria Conexa.,class,,Manufacture of air and spacecraft and related machinery
+C3040,Fabricación De Vehículos Militares De Combate.,class,,Manufacture of military fighting vehicles
+C3091,Fabricación De Motocicletas.,class,,Manufacture of motorcycles
+C3092,Fabricación De Bicicletas Y De Sillas De Ruedas Para Inválidos.,class,,Manufacture of bicycles and invalid carriages
+C3099,Fabricación De Otros Tipos De Equipo De Transporte N.C.P.,class,,Manufacture of other transport equipment n.e.c.
+C3100,Fabricación De Muebles.,class,,Manufacture of furniture
+C3211,Fabricación De Joyas Y Artículos Conexos.,class,,Manufacture of jewellery and related articles
+C3212,Fabricación De Bisutería Y Artículos Conexos.,class,,Manufacture of imitation jewellery and related articles
+C3220,Fabricación De Instrumentos Musicales.,class,,Manufacture of musical instruments
+C3230,Fabricación De Artículos De Deporte.,class,,Manufacture of sports goods
+C3240,Fabricación De Juegos Y Juguetes.,class,,Manufacture of games and toys
+C3250,Fabricación De Instrumentos Y Materiales Médicos Y Odontológicos.,class,,Manufacture of medical and dental instruments and supplies
+C3290,Otras Industrias Manufactureras N.C.P.,class,,Other manufacturing n.e.c.
+C3311,Reparación De Productos Elaborados De Metal.,class,,Repair of fabricated metal products
+C3312,Reparación De Maquinaria.,class,,Repair of machinery
+C3313,Reparación De Equipo Electrónico Y Óptico.,class,,Repair of electronic and optical equipment
+C3314,Reparación De Equipo Eléctrico.,class,,Repair of electrical equipment
+C3315,"Reparación De Equipo De Transporte, Excepto Vehículos Automotores.",class,,"Repair of transport equipment, except motor vehicles"
+C3319,Reparación De Otros Tipos De Equipo.,class,,Repair of other equipment
+C3320,Instalación De Maquinaria Y Equipo Industriales.,class,,Installation of industrial machinery and equipment
+D3510,"Generación, Transmisión Y Distribución De Energía Eléctrica.",class,,"Electric power generation, transmission and distribution"
+D3520,Fabricación De Gas; Distribución De Combustibles Gaseosos Por Tuberías.,class,,Manufacture of gas; distribution of gaseous fuels through mains
+D3530,Suministro De Vapor Y De Aire Acondicionado.,class,,Steam and air conditioning supply
+E3600,"Captación, Tratamiento Y Distribución De Agua.",class,,"Water collection, treatment and supply"
+E3700,Evacuación De Aguas Residuales.,class,,Sewerage
+E3811,Recolección De Desechos No Peligrosos.,class,,Collection of non-hazardous waste
+E3812,Recolección De Desechos Peligrosos.,class,,Collection of hazardous waste
+E3821,Tratamiento Y Eliminación De Desechos No Peligrosos.,class,,Treatment and disposal of non-hazardous waste
+E3822,Tratamiento Y Eliminación De Desechos Peligrosos.,class,,Treatment and disposal of hazardous waste
+E3830,Recuperación De Materiales.,class,,Materials recovery
+E3900,Actividades De Descontaminación Y Otros Servicios De  Gestión De Desechos.,class,,Remediation activities and other waste management services
+F4100,Construcción De Edificios.,class,,Construction of buildings
+F4210,Construcción De Carreteras Y Líneas De Ferrocarril.,class,,Construction of roads and railways
+F4220,Construcción De Proyectos De Servicios Públicos.,class,,Construction of utility projects
+F4290,Construcción De Otras Obras De Ingeniería Civil.,class,,Construction of other civil engineering projects
+F4311,Demolición.,class,,Demolition
+F4312,Preparación Del Terreno.,class,,Site preparation
+F4321,Instalaciones Eléctricas.,class,,Electrical installation
+F4322,"Fontanería (Plomería, Gasfitería) E Instalación De Calefacción Y Aire Acondicionado.",class,,"Plumbing, heat and air-conditioning installation"
+F4329,Otras Instalaciones Para Obras De Construcción.,class,,Other construction installation
+F4330,Terminación Y Acabado De Edificios.,class,,Building completion and finishing
+F4390,Otras Actividades Especializadas De Construcción.,class,,Other specialized construction activities
+G4510,Venta De Vehículos Automotores.,class,,Sale of motor vehicles
+G4520,Mantenimiento Y Reparación De Vehículos Automotores.,class,,Maintenance and repair of motor vehicles
+G4530,"Venta De Partes, Piezas Y Accesorios Para Vehículos Automotores.",class,,Sale of motor vehicle parts and accessories
+G4540,"Venta, Mantenimiento Y Reparación De Motocicletas Y De Sus Partes, Piezas Y Accesorios.",class,,"Sale, maintenance and repair of motorcycles and related parts and accessories"
+G4610,Venta Al Por Mayor A Cambio De Una Comisión O Por Contrato.,class,,Wholesale on a fee or contract basis
+G4620,Venta Al Por Mayor De Materias Primas Agropecuarias Y Animales Vivos.,class,,Wholesale of agricultural raw materials and live animals
+G4630,"Venta Al Por Mayor De Alimentos, Bebidas Y Tabaco.",class,,"Wholesale of food, beverages and tobacco"
+G4641,"Venta Al Por Mayor De Textiles, Prendas De Vestir Y Calzado.",class,,"Wholesale of textiles, clothing and footwear"
+G4649,Venta Al Por Mayor De Otros Enseres Domésticos.,class,,Wholesale of other household goods
+G4651,"Venta Al Por Mayor De Computadoras, Equipo Y Programas Informáticos.",class,,"Wholesale of computers, computer peripheral equipment and software"
+G4652,"Venta Al Por Mayor De Equipo, Partes Y Piezas Electrónicos Y De Telecomunicaciones.",class,,Wholesale of electronic and telecommunications equipment and parts
+G4653,"Venta Al Por Mayor De Maquinaria, Equipo Y Materiales Agropecuarios.",class,,"Wholesale of agricultural machinery, equipment and supplies"
+G4659,Venta Al Por Mayor De Otros Tipos De Maquinaria Y Equipo.,class,,Wholesale of other machinery and equipment
+G4661,"Venta Al Por Mayor De Combustibles Sólidos, Líquidos Y Gaseosos Y Productos Conexos.",class,,"Wholesale of solid, liquid and gaseous fuels and related products"
+G4662,Venta Al Por Mayor De Metales Y Minerales Metalíferos.,class,,Wholesale of metals and metal ores
+G4663,"Venta Al Por Mayor De Materiales Para La Construcción, Artículos De Ferretería, Equipo, Materiales De Fontanería (Plomería O Gasfitería) Y Calefacción.",class,,"Wholesale of construction materials, hardware, plumbing and heating equipment and supplies"
+G4669,"Venta Al Por Mayor De Desperdicios, Desechos, Chatarra Y Otros Productos N.C.P.",class,,Wholesale of waste and scrap and other products n.e.c.
+G4690,Venta Al Por Mayor De Otros Productos No Especializado.,class,,Non-specialized wholesale trade
+G4711,"Venta Al Por Menor En Comercios No Especializados Con Predominio De La Venta De Alimentos, Bebidas O Tabaco.",class,,"Retail sale in non-specialized stores with food, beverages or tobacco predominating"
+G4719,Otras Actividades De Venta Al Por Menor En Comercios No Especializados.,class,,Other retail sale in non-specialized stores
+G4721,Venta Al Por Menor De Alimentos En Comercios Especializados.,class,,Retail sale of food in specialized stores
+G4722,Venta Al Por Menor De Bebidas En Comercios Especializados.,class,,Retail sale of beverages in specialized stores
+G4723,Venta Al Por Menor De Tabaco En Comercios Especializados.,class,,Retail sale of tobacco products in specialized stores
+G4730,Venta Al Por Menor De Combustibles Para Vehículos Automotores En Comercios Especializados.,class,,Retail sale of automotive fuel in specialized stores
+G4741,"Venta Al Por Menor De Computadores, Equipo Periférico, Programas Informáticos Y Equipo De Telecomunicaciones En Comercios Especializados.",class,,"Retail sale of computers, peripheral units, software and telecommunications equipment in specialized stores"
+G4742,Venta Al Por Menor De Equipo De Sonido Y Vídeo En Comercios Especializados.,class,,Retail sale of audio and video equipment in specialized stores
+G4751,Venta Al Por Menor De Productos Textiles En Comercios Especializados.,class,,Retail sale of textiles in specialized stores
+G4752,"Venta Al Por Menor De Artículos De Ferretería, Pinturas Y Productos De Vidrio En Comercios Especializados.",class,,"Retail sale of hardware, paints and glass in specialized stores"
+G4753,"Venta Al Por Menor De Tapices, Alfombras Y Cubrimientos Para Paredes Y Pisos En Comercios Especializados.",class,,"Retail sale of carpets, rugs, wall and floor coverings in specialized stores"
+G4759,"Venta Al Por Menor De Aparatos Eléctricos De Uso Doméstico, Muebles, Equipo De Iluminación Y Otros Enseres Domésticos En Comercios Especializados.",class,,"Retail sale of electrical household appliances, furniture, lighting equipment and other household articles in specialized stores"
+G4761,"Venta Al Por Menor De Libros, Periódicos Y Artículos De Papelería En Comercios Especializados.",class,,"Retail sale of books, newspapers and stationary in specialized stores"
+G4762,Venta Al Por Menor De Grabaciones De Música Y De Vídeo En Comercios Especializados.,class,,Retail sale of music and video recordings in specialized stores
+G4763,Venta Al Por Menor De Equipo De Deporte En Comercios Especializados.,class,,Retail sale of sporting equipment in specialized stores
+G4764,Venta Al Por Menor De Juegos Y Juguetes En Comercios Especializados.,class,,Retail sale of games and toys in specialized stores
+G4771,"Venta Al Por Menor De Prendas De Vestir, Calzado Y Artículos De Cuero En Comercios Especializados.",class,,"Retail sale of clothing, footwear and leather articles in specialized stores"
+G4772,"Venta Al Por Menor De Productos Farmacéuticos Y Medicinales, Cosméticos Y Artículos De Tocador En Comercios Especializados.",class,,"Retail sale of pharmaceutical and medical goods, cosmetic and toilet articles in specialized stores"
+G4773,Venta Al Por Menor De Otros Productos Nuevos En Comercios Especializados.,class,,Other retail sale of new goods in specialized stores
+G4774,Venta Al Por Menor De Artículos De Segunda Mano En Comercios Especializados.,class,,Retail sale of second-hand goods
+G4781,"Venta Al Por Menor De Alimentos, Bebidas Y Tabaco En Puestos De Venta Y Mercados.",class,,"Retail sale via stalls and markets of food, beverages and tobacco products"
+G4782,"Venta Al Por Menor De Productos Textiles, Prendas De Vestir Y Calzado En Puestos De Venta Y Mercados.",class,,"Retail sale via stalls and markets of textiles, clothing and footwear"
+G4789,Venta Al Por Menor De Otros Productos En Puestos De Venta Y Mercados.,class,,Retail sale via stalls and markets of other goods
+G4791,Venta Al Por Menor Por Correo Y Por Internet.,class,,Retail sale via mail order houses or via Internet
+G4799,"Otras Actividades De Venta Al Por Menor No Realizadas En Comercios, Puestos De Venta O Mercados.",class,,"Other retail sale not in stores, stalls or markets"
+H4911,Transporte Interurbano De Pasajeros Por Ferrocarril.,class,,"Passenger rail transport, interurban"
+H4912,Transporte De Carga Por Ferrocarril.,class,,Freight rail transport
+H4921,Transporte Urbano Y Suburbano De Pasajeros Por Vía Terrestre.,class,,Urban and suburban passenger land transport
+H4922,Otras Actividades De Transporte De Pasajeros Por Vía Terrestre.,class,,Other passenger land transport
+H4923,Transporte De Carga Por Carretera.,class,,Freight transport by road
+H4930,Transporte Por Tuberías.,class,,Transport via pipeline
+H5011,Transporte De Pasajeros Marítimo Y De Cabotaje.,class,,Sea and coastal passenger water transport
+H5012,Transporte De Carga Marítimo Y De Cabotaje.,class,,Sea and coastal freight water transport
+H5021,Transporte De Pasajeros Por Vías De Navegación Interiores.,class,,Inland passenger water transport
+H5022,"Transporte De Carga, Por Vías De Navegación Interiores.",class,,Inland freight water transport
+H5110,Transporte De Pasajeros Por Vía Aérea.,class,,Passenger air transport
+H5120,Transporte De Carga Por Vía Aérea.,class,,Freight air transport
+H5210,Almacenamiento Y Depósito.,class,,Warehousing and storage
+H5221,Actividades De Servicios Vinculadas Al Transporte Terrestre.,class,,Service activities incidental to land transportation
+H5222,Actividades De Servicios Vinculadas Al Transporte Acuático.,class,,Service activities incidental to water transportation
+H5223,Actividades De Servicios Vinculadas Al Transporte Aéreo.,class,,Service activities incidental to air transportation
+H5224,Manipulación De Carga.,class,,Cargo handling
+H5229,Otras Actividades De Apoyo Al Transporte.,class,,Other transportation support activities
+H5310,Actividades Postales.,class,,Postal activities
+H5320,Actividades De Mensajería.,class,,Courier activities
+I5510,Actividades De Alojamiento Para Estancias Cortas.,class,,Short term accommodation activities
+I5520,"Actividades De Campamentos, Parques De Vehículos De Recreo Y Parques De Caravanas.",class,,"Camping grounds, recreational vehicle parks and trailer parks"
+I5590,Otras Actividades De Alojamiento.,class,,Other accommodation
+I5610,Actividades De Restaurantes Y De Servicio Móvil De Comidas.,class,,Restaurants and mobile food service activities
+I5621,Suministro De Comidas Por Encargo.,class,,Event catering
+I5629,Otras Actividades De Servicio De Comidas.,class,,Other food service activities
+I5630,Actividades De Servicio De Bebidas.,class,,Beverage serving activities
+J5811,"Publicación De Libros, Periódicos Y Otras Actividades De Publicación.",class,,Book publishing
+J5812,Publicación De Directorios Y De Listas De Correo.,class,,Publishing of directories and mailing lists
+J5813,"Publicación De Periódicos, Diarios Y Revistas.",class,,"Publishing of newspapers, journals and periodicals"
+J5819,Otras Publicaciones.,class,,Other publishing activities
+J5820,Publicación De Programas Informáticos.,class,,Software publishing
+J5911,"Actividades De Producción De Películas Cinematográficas, Vídeos Y Programas De Televisión.",class,,"Motion picture, video and television programme production activities"
+J5912,"Actividades De Postproducción De Películas Cinematográficas, Vídeos Y Programas De Televisión.",class,,"Motion picture, video and television programme post-production activities"
+J5913,"Actividades De Distribución De Películas Cinematográficas, Vídeos Y Programas De Televisión.",class,,"Motion picture, video and television programme distribution activities"
+J5914,Actividades De Exhibición De Películas Cinematográficas Y Cintas De Vídeo.,class,,Motion picture projection activities
+J5920,Actividades De Grabación De Sonido Y Edición De Música.,class,,Sound recording and music publishing activities
+J6010,Transmisiones De Radio.,class,,Radio broadcasting
+J6020,Programación Y Transmisiones De Televisión.,class,,Television programming and broadcasting activities
+J6110,Actividades De Telecomunicaciones Alámbrica.,class,,Wired telecommunications activities
+J6120,Actividades De Telecomunicaciones Inalámbricas.,class,,Wireless telecommunications activities
+J6130,Actividades De Telecomunicaciones Por Satélite.,class,,Satellite telecommunications activities
+J6190,Otras Actividades De Telecomunicaciones.,class,,Other telecommunications activities
+J6201,Actividades De Programación Informática.,class,,Computer programming activities
+J6202,Actividades De Consultoría De Informática Y De Gestión De Instalaciones Informáticas.,class,,Computer consultancy and computer facilities management activities
+J6203,"Actividades De Diseño Y Desarrollo De Soluciones Basadas En Tecnología Blockchain (Cadenas De Bloques)
+",class,,Design and development of blockchain-based solutions
+J6209,Otras Actividades De Tecnología De La Información Y De Servicios Informáticos.,class,,Other information technology and computer service activities
+J6311,"Procesamiento De Datos, Hospedaje Y Actividades Conexas.",class,,"Data processing, hosting and related activities"
+J6312,Portales Web.,class,,Web portals
+J6391,Actividades De Agencias De Noticias.,class,,News agency activities
+J6399,Otras Actividades De Servicios De Información N.C.P.,class,,Other information service activities n.e.c.
+K6411,Banca Central.,class,,Central banking
+K6419,Otros Tipos De Intermediación Monetaria.,class,,Other monetary intermediation
+K6420,Actividades De Sociedades De Cartera.,class,,Activities of holding companies
+K6430,Fondos Y Sociedades De Inversión Y Entidades Financieras Similares.,class,,"Trusts, funds and similar financial entities"
+K6491,Arrendamiento Financiero.,class,,Financial leasing
+K6492,Otras Actividades De Concesión De Crédito.,class,,Other credit granting
+K6499,"Otras Actividades De Servicios Financieros, Excepto Las De Seguros Y Fondos De Pensiones, N.C.P.",class,,"Other financial service activities, except insurance and pension funding activities, n.e.c."
+K6511,Seguros De Vida.,class,,Life insurance
+K6512,Seguros Generales.,class,,Non-life insurance
+K6520,Reaseguros.,class,,Reinsurance
+K6530,Fondos De Pensión.,class,,Pension funding
+K6611,Administración De Mercados Financieros.,class,,Administration of financial markets
+K6612,Corretaje De Valores Y De Contratos De Productos Básicos.,class,,Security and commodity contracts brokerage
+K6613,Administración De Activos Virtuales,class,,Virtual asset management
+K6614,"Servicios De Asesoramiento, Gestión Y Operación De Mercados Virtuales",class,,"Advisory, management and operation services for virtual markets"
+K6619,Otras Actividades Auxiliares A Las Actividades De Servicios Financieros.,class,,Other activities auxiliary to financial service activities
+K6621,Evaluación De Riesgos Y Daños.,class,,Risk and damage evaluation
+K6622,Actividades De Los Agentes Y Corredores De Seguro.,class,,Activities of insurance agents and brokers
+K6629,Otras Actividades Auxiliares De Seguros Y Fondos De Pensiones.,class,,Other activities auxiliary to insurance and pension funding
+K6630,Actividades De Gestión De Fondos.,class,,Fund management activities
+L6810,Actividades Inmobiliarias Realizadas Con Bienes Propios O Arrendados.,class,,Real estate activities with own or leased property
+L6820,Actividades Inmobiliarias Realizadas A Cambio De Una Retribución O Por Contrato.,class,,Real estate activities on a fee or contract basis
+M6910,Actividades Jurídicas.,class,,Legal activities
+M6920,"Actividades De Contabilidad, Teneduría De Libros Y Auditorias; Consultoría Fiscal.",class,,"Accounting, bookkeeping and auditing activities; tax consultancy"
+M7010,Actividades De Oficinas Principales.,class,,Activities of head offices
+M7020,Actividades De Consultoría De Gestión.,class,,Management consultancy activities
+M7110,Actividades De Arquitectura E Ingeniería Y Actividades Conexas De Consultoría Técnica.,class,,Architectural and engineering activities and related technical consultancy
+M7120,Ensayos Y Análisis Técnicos.,class,,Technical testing and analysis
+M7210,Investigaciones Y Desarrollo Experimental En El Campo De Las Ciencias Naturales Y La Ingeniería.,class,,Research and experimental development on natural sciences and engineering
+M7220,Investigaciones Y Desarrollo Experimental En El Campo De Las Ciencias Sociales Y Las Humanidades.,class,,Research and experimental development on social sciences and humanities
+M7310,Publicidad.,class,,Advertising
+M7320,Estudios De Mercado Y Encuestas De Opinión Pública.,class,,Market research and public opinion polling
+M7410,Actividades Especializadas De Diseño.,class,,Specialized design activities
+M7420,Actividades De Fotografía.,class,,Photographic activities
+M7490,"Otras Actividades Profesionales, Científicas Y Técnicas N.C.P.",class,,"Other professional, scientific and technical activities n.e.c."
+M7500,Actividades Veterinarias.,class,,Veterinary activities
+N7710,Alquiler De Vehículos Automotores.,class,,Renting and leasing of motor vehicles
+N7721,Alquiler De Equipo Recreativo Y Deportivo.,class,,Renting and leasing of recreational and sports goods
+N7722,Alquiler De Cintas De Video Y Discos.,class,,Renting of video tapes and disks
+N7729,Alquiler Otros Efectos Personales Y Artículos De Uso Domésticos.,class,,Renting and leasing of other personal and household goods
+N7730,"Alquiler De Otros Tipos De Maquinaria, Equipo Y Bienes Tangibles.",class,,"Renting and leasing of other machinery, equipment and tangible goods"
+N7740,"Arrendamiento De Propiedad Intelectual Y Productos Similares, Excepto Obras Protegidas Por Derechos De Autor.",class,,"Leasing of intellectual property and similar products, except copyrighted works"
+N7810,Actividades De Agencias De Empleo.,class,,Activities of employment placement agencies
+N7820,Actividades De Agencias De Empleo Temporal.,class,,Temporary employment agency activities
+N7830,Otras Actividades De Dotación De Recursos Humanos.,class,,Other human resources provision
+N7911,Actividades De Agencias De Viajes.,class,,Travel agency activities
+N7912,Actividades De Operadores Turísticos.,class,,Tour operator activities
+N7990,Otros Servicios De Reservas Y Actividades Conexas.,class,,Other reservation service and related activities
+N8010,Actividades De Seguridad Privada.,class,,Private security activities
+N8020,Actividades De Servicios De Sistemas De Seguridad.,class,,Security systems service activities
+N8030,Actividades De Investigación.,class,,Investigation activities
+N8110,Actividades Combinadas De Apoyo A Instalaciones.,class,,Combined facilities support activities
+N8121,Limpieza General De Edificios.,class,,General cleaning of buildings
+N8129,Otras Actividades De Limpieza De Edificios E Instalaciones Industriales.,class,,Other building and industrial cleaning activities
+N8130,Actividades De Paisajismo Y Servicios De Mantenimiento Conexos.,class,,Landscape care and maintenance service activities
+N8211,Actividades Combinadas De Servicios Administrativos De Oficina.,class,,Combined office administrative service activities
+N8219,"Fotocopiado, Preparación De Documentos Y Otras Actividades Especializadas De Apoyo De Oficina.",class,,"Photocopying, document preparation and other specialized office support activities"
+N8220,Actividades De Centros De Llamadas.,class,,Activities of call centres
+N8230,Organización De Convenciones Y Exposiciones Comerciales.,class,,Organization of conventions and trade shows
+N8291,Actividades De Agencias De Cobro Y Agencias De Calificación Crediticia.,class,,Activities of collection agencies and credit bureaus
+N8292,Actividades De Envasado Y Empaquetado.,class,,Packaging activities
+N8299,Otras Actividades De Servicios De Apoyo A Empresas N.C.P.,class,,Other business support service activities n.e.c.
+O8411,Actividades De La Administración Pública En General.,class,,General public administration activities
+O8412,"Regulación De Las Actividades De Organismos Que Prestan Servicios Sanitarios, Educativos, Culturales Y Otros Servicios Sociales, Excepto Servicios De Seguridad Social.",class,,"Regulation of the activities of providing health care, education, cultural services and other social services, excluding social security"
+O8413,Regulación Y Facilitación De La Actividad Económica.,class,,Regulation of and contribution to more efficient operation of businesses
+O8421,Relaciones Exteriores.,class,,Foreign affairs
+O8422,Actividades De Defensa.,class,,Defence activities
+O8423,Actividades De Mantenimiento Del Orden Público Y De Seguridad.,class,,Public order and safety activities
+O8430,Actividades De Planes De Seguridad Social De Afiliación Obligatoria.,class,,Compulsory social security activities
+P8510,Enseñanza Preprimaria Y Primaria.,class,,Pre-primary and primary education
+P8521,Enseñanza Secundaria De Formación General.,class,,General secondary education
+P8522,Enseñanza De Formación Técnica Y Profesional.,class,,Technical and vocational secondary education
+P8530,Enseñanza Superior.,class,,Higher education
+P8541,Enseñanza Deportiva Y Recreativa.,class,,Sports and recreation education
+P8542,Enseñanza Cultural.,class,,Cultural education
+P8549,Otros Tipos De Enseñanza N.C.P.,class,,Other education n.e.c.
+P8550,Actividades De Apoyo A La Enseñanza.,class,,Educational support activities
+Q8610,Actividades De Hospitales Y Clínicas.,class,,Hospital activities
+Q8620,Actividades De Médicos Y Odontólogos.,class,,Medical and dental practice activities
+Q8690,Otras Actividades De Atención De La Salud Humana.,class,,Other human health activities
+Q8710,Actividades De Atención De Enfermería En Instituciones.,class,,Residential nursing care facilities
+Q8720,"Actividades De Atención En Instituciones Para Personas Con Retraso Mental, Enfermos Mentales Y Toxicómanos.",class,,"Residential care activities for mental retardation, mental health and substance abuse"
+Q8730,Actividades De Atención En Instituciones Para Personas De Edad Y Personas Con Discapacidad.,class,,Residential care activities for the elderly and disabled
+Q8790,Otras Actividades De Atención En Instituciones.,class,,Other residential care activities
+Q8810,Actividades De Asistencia Social Sin Alojamiento Para Personas De Edad Y Personas Con Discapacidad.,class,,Social work activities without accommodation for the elderly and disabled
+Q8890,Otras Actividades De Asistencia Social Sin Alojamiento.,class,,Other social work activities without accommodation
+R9000,"Actividades Creativas, Artísticas Y De Entretenimiento.",class,,"Creative, arts and entertainment activities"
+R9101,Actividades De Bibliotecas Y Archivos.,class,,Library and archives activities
+R9102,Actividades De Museos Y Gestión De Lugares Y Edificios Históricos.,class,,Museums activities and operation of historical sites and buildings
+R9103,Actividades De Jardines Botánicos Y Zoológicos Y Reservas Naturales.,class,,Botanical and zoological gardens and nature reserves activities
+R9200,Actividades De Juegos De Azar Y Apuestas.,class,,Gambling and betting activities
+R9311,Explotación De Instalaciones Deportivas.,class,,Operation of sports facilities
+R9312,Actividades De Clubes Deportivos.,class,,Activities of sports clubs
+R9319,Otras Actividades Deportivas.,class,,Other sports activities
+R9321,Actividades De Parques De Atracciones Y Parques Temáticos.,class,,Activities of amusement parks and theme parks
+R9329,Otras Actividades De Esparcimiento Y Recreativas N.C.P.,class,,Other amusement and recreation activities n.e.c.
+S9411,Actividades De Asociaciones Empresariales Y De Empleadores.,class,,Activities of business and employers membership organizations
+S9412,Actividades De Asociaciones Profesionales.,class,,Activities of professional membership organizations
+S9420,Actividades De Sindicatos.,class,,Activities of trade unions
+S9491,Actividades De Organizaciones Religiosas.,class,,Activities of religious organizations
+S9492,Actividades De Organizaciones Políticas.,class,,Activities of political organizations
+S9499,Actividades De Otras Asociaciones N.C.P.,class,,Activities of other membership organizations n.e.c.
+S9511,Reparación De Computadoras Y Equipo Periférico.,class,,Repair of computers and peripheral equipment
+S9512,Reparación De Equipo De Comunicaciones.,class,,Repair of communication equipment
+S9521,Reparación De Aparatos Electrónicos De Consumo.,class,,Repair of consumer electronics
+S9522,Reparación De Aparatos De Uso Doméstico Y Equipo Doméstico Y De Jardinería.,class,,Repair of household appliances and home and garden equipment
+S9523,Reparación De Calzado Y Artículos De Cuero.,class,,Repair of footwear and leather goods
+S9524,Reparación De Muebles Y Accesorios Domésticos.,class,,Repair of furniture and home furnishings
+S9529,Reparación De Otros Bienes Personales Y Enseres Domésticos.,class,,Repair of other personal and household goods
+S9601,"Lavado Y Limpieza, Incluida La Limpieza En Seco, De Productos Textiles Y De Piel.",class,,Washing and (dry-) cleaning of textile and fur products
+S9602,Actividades De Peluquería Y Otros Tratamientos De Belleza.,class,,Hairdressing and other beauty treatment
+S9603,Pompas Fúnebres Y Actividades Conexas.,class,,Funeral and related activities
+S9609,Otras Actividades De Servicios Personales N.C.P.,class,,Other personal service activities n.e.c.
+T9700,Actividades De Los Hogares Como Empleadores De Personal Doméstico.,class,,Activities of households as employers of domestic personnel
+T9810,Actividades No Diferenciadas De Los Hogares Como Productores De Bienes Y Servicios Para Uso Propio.,class,,Undifferentiated goods-producing activities of private households for own use
+T9820,Actividades No Diferenciadas De Los Hogares Como Productores De Servicios Para Uso Propio.,class,,Undifferentiated service-producing activities of private households for own use
+U9900,Actividades De Organizaciones Y Órganos Extraterritoriales.,class,,Activities of extraterritorial organizations and bodies
